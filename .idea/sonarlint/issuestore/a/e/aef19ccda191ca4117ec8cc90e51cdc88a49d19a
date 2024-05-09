@@ -1,0 +1,9 @@
+
+”
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Õ­şıÿÿÿÿ8É«Õôõ1J$f20310be-d0ba-40af-85e2-27f9eb9968cb
+r	java:S106"+Replace this use of System.out by a logger.(½†Ç¯ıÿÿÿÿ8ÂÒÔôõ1J$9b89575a-7519-4d8c-86ac-744cd51e64e3
+–
+java:S4042""NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ôÛõéøÿÿÿÿ8ÿùÚôõ1J$ddfc200f-1dfb-4393-9068-4e5acf769574
+m	java:S106#"+Replace this use of System.out by a logger.(Ñ½Ş•8ÆÒÔôõ1J$b8beab7f-81b7-4602-810e-3fc6e43168ff
+r	java:S106%"+Replace this use of System.out by a logger.(ı¶§×ùÿÿÿÿ8úÚôõ1J$1bc31bff-ac28-4b9e-8b79-b067cf029b74
+l	java:S106("+Replace this use of System.out by a logger.( Ê«l8‚úÚôõ1J$70fd9f41-b0ed-42b5-b677-067046b68a3a
